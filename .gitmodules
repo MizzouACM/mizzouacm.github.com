@@ -1,0 +1,3 @@
+[submodule "javascript-workshop"]
+	path = javascript-workshop
+	url = git://github.com/ryan-endacott/javascript-workshop.git
